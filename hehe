@@ -73,6 +73,11 @@ body {
     center top/cover;
 }
 
+.slide:nth-child(3) {
+  background: url("7.jpg") no-repeat
+    center top/cover;
+}
+
 .buttons button#prev {
   position: absolute;
   top: 50%;
